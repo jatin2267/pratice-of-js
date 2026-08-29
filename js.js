@@ -1,4 +1,2 @@
-let name = "";
-
-let newname = Boolean(name);
-console.log(newname);
+console.log("2" > 1);
+console.log(null > 0);
