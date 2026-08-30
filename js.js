@@ -1,2 +1,5 @@
-console.log("2" > 1);
-console.log(null > 0);
+let name = "jatin";
+console.log(typeof name);
+
+let newname = Number(name);
+console.log(typeof newname);
